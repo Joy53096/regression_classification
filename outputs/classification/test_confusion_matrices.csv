@@ -1,0 +1,3 @@
+model,TN,FP,FN,TP
+Fisher,107,3,0,92
+Logistic,109,1,0,92
